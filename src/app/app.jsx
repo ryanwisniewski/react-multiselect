@@ -18,7 +18,7 @@ class App extends Component {
         };
     }
 
-    componentDidMount() {
+	componentDidMount() {
 		this.setState({
 			testData: testData,
 			specialOptions: specialOptions
@@ -28,7 +28,7 @@ class App extends Component {
 	onChange = () => {
 		console.log('Changed!')
 	}
-	
+
 	onOpen = () => {
 		console.log('Opened!')
 	}
