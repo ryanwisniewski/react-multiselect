@@ -1,2 +1,2 @@
-# user-profile
-Provides users with a variety of project specific reports
+# React-MultiSelect
+A checkbox-driven multi-select component built for React. 
