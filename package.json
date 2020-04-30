@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "immutable": "^3.8.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "less": "^3.10.3",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
